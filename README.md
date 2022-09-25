@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vaibhav</h1>
 <h3 align="center">I'm currently persuing my bachelor's degree in Electrical Engineering from Punjab Engineering College, Chandigarh. I am a beginner in computer programming with strong will to achieve my dreams and with the intention to improve my skills and getting better.</h3>
-<image align = "right" alt = "Coding" width = "400" src = "https://c.tenor.com/DBqjevyA2o4AAAAM/bongo-cat-codes.gif">
+<image align = "right" alt = "Coding" width = "400" src = "https://c.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhav1808&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhav1808" /> </p>
 
