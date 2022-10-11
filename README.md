@@ -12,6 +12,8 @@
 
 - 📫 How to reach me **vaibhavthakkar039@gmail.com**
 
+[![@vaibhav_1808's Holopin board](https://holopin.io/api/user/board?user=vaibhav_1808)](https://holopin.io/@vaibhav_1808)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/vaibhav thakkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vaibhav thakkar" height="30" width="40" /></a>
