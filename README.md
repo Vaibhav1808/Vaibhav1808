@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Vaibhav</h1>
 <h3 align="center">I'm currently persuing my bachelor's degree in Electrical Engineering from Punjab Engineering College, Chandigarh. I am a beginner in computer programming with strong will to achieve my dreams and with the intention to improve my skills and getting better.</h3>
 
+<image align = "right" alt = "Coding" width = "260" src = "https://c.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhav1808&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhav1808" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vaibhav1808" alt="vaibhav1808" /></a> </p>
@@ -10,6 +12,8 @@
 - 💬 Ask me about **CPP, Python, Data Structures, Competitive Programming, Web Development**
 
 - 📫 How to reach me **vaibhavthakkar039@gmail.com**
+  
+  [![@vaibhav_1808's Holopin board](https://holopin.io/api/user/board?user=vaibhav_1808)](https://holopin.io/@vaibhav_1808)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
