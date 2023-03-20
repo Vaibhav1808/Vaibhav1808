@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **CPP, Python, Data Structures, Competitive Programming, Web Development**
 
-- 📫 How to reach me **vaibhavthakkar039@gmail.com**
+- 📫 How to reach me? : **vaibhavthakkar039@gmail.com**
   
   [![@vaibhav_1808's Holopin board](https://holopin.io/api/user/board?user=vaibhav_1808)](https://holopin.io/@vaibhav_1808)
 
